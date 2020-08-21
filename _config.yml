@@ -16,8 +16,8 @@ texture:
   tagline: Hola, Bienvenido a mi blog
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
-  showPicker: false
+  showNav: true
+  showPicker: true
 
   # generate social links in footer
   social_links:

@@ -9,6 +9,6 @@ Hola, mi nombre es Jaime Francisco Anchundia Magallanes, soy de nacionalidad ecu
 Me considero una persona responsable, amable, me gusta ayudar en lo que pueda a las personas, me encantan los perritos.
 Estudio en la Universidad de Guayaquil en la carrera de Software en el primer semestre.
 
-<code>
+
 > “Si el plan no funciona, cambia el plan, pero no cambies la meta.”
-</code>
+

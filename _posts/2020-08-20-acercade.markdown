@@ -12,4 +12,4 @@ Estudio en la Universidad de Guayaquil en la carrera de Software en el primer se
 
 > “Si el plan no funciona, cambia el plan, pero no cambies la meta.”
 
-![x](/assets/images/cover.jpg)
+![x](assets/images/cover.jpg)

@@ -5,9 +5,15 @@ description: ¿Qué es MongoDB?
 date:   2020-08-20 13:25:36 -0530
 categories: MongoDB
 ---
+
+
 MongoDB es una base de datos de documentos que ofrece una gran escalabilidad y flexibilidad, y un modelo de consultas e indexación avanzado.
+
+
 ### Desarrollo fácil
+
 El modelo de documentos de MongoDB resulta muy fácil de aprender y usar, y proporciona a los desarrolladores todas las funcionalidades que necesitan para satisfacer los requisitos más complejos a cualquier escala. Se proporcionan drivers para más de diez lenguajes, y la comunidad ha desarrollado varias decenas más.
+
 <ul>
 <li>MongoDB almacena datos en documentos flexibles similares a JSON, por lo que los campos pueden variar entre documentos y la estructura de datos puede cambiarse con el tiempo</li>
 

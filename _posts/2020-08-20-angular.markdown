@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Angular"
+description: ¿Qué es Angular?
+date:   2020-08-20 17:25:36 -0530
+categories: Angular
+---
+
+
+Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA y además darnos herramientas para trabajar con los elementos de una web de una manera más sencilla y optima.
+Otro propósito que tiene Angular es la separación completa entre el front-end y el back-end en una aplicación web.
+Ya sabemos que es Angular, pero… ¿que es una aplicación web SPA?
+
+
+### ¿Que es una aplicación web SPA desarrollada con Angular?
+
+Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación, así como la carga de datos, se realiza de manera dinámica, casi instantánea, asincronamente haciendo llamadas al servidor (backend con un API REST) y sobre todo sin refrescar la página en ningún momento.
+
+Es decir las aplicaciones web que podemos hacer con Angular son reactivas y no recargan el navegador, todo es muy dinámico y asíncrono con ajax.
+
+No se si has probado a crear una aplicación de este tipo usando solo JavaScript y jQuery. Si lo has hecho te habrás dado cuenta de que es muy complejo, tedioso y difícil de mantener. Además hay que trabajar y escribir muuucho código.
+Pues bien, este problema es el que viene a resolver Angular a mi parecer, convirtiendo el desarrollo de una web SPA (Single Page App) en un proceso muy sencillo, muy limpio, más orientado a objetos y con una arquitectura basada en componentes y buenas prácticas.
+Otra ventaja que tiene este framework es que está respaldado por Google y tiene una comunidad brutalmente grande detrás.
+Gracias a esto y a la popularidad del framework las empresas están solicitando profesionales que sepan desarrollar webapps con este framework.
+Seguro que te estarás preguntando… ¿donde aprendo Angular?
+
+### ¿Como aprender Angular?
+Una de las formas de aprender Angular es utilizando su manual y la documentación oficial que esta en esta web: https://angular.io/docs
+Esto está en inglés y realmente todos los temas tratados son un poco inconexos y quizás te vaya a costar mucho esfuerzo y tiempo lograr aprender Angular para desarrollar tus propios proyecto.
+
+![](https://anexsoft.com/storage/app/media/posts/angular/cover-1.png)

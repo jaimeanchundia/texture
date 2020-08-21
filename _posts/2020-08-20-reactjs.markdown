@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "React"
+description:
+date:   2020-08-20 13:25:36 -0530
+categories: Reactjs
+---
+![](https://www.programacion.com.py/wp-content/uploads/2016/11/react-logo-1024x576.png)
+### ReactJS 
+Es una librería JavaScript de código abierto enfocada a la visualización. Esta tecnología nos permite el desarrollo de interfaces de usuario de forma sencilla, esto es posible mediante componentes interactivos y reutilizables.
+### ¿De dónde sale React?
+La web tradicionalmente se ha construido en HTML, JavaScript y CSS, separados en distintas carpetas. Eso hace que sea complicado escalar y extraer ciertas partes del código (especialmente JS y CSS) para migrar o reutilizar funcionalidades debido a las dependencias entre estos lenguajes.
+¿Pero que sucedería si metiéramos todo esto en un solo paquete? 
+Esto es lo que debieron preguntarse los ingenieros de Facebook y propició que a mediados de 2013 se lanzara la primera versión de la ya famosa librería.
+React está basado en un paradigma llamado programación orientada a componentes en el que cada componente es una pieza con la que el usuario puede interactuar. Estas piezas se crean usando una sintaxis llamada JSX permitiendo escribir HTML (y opcionalmente CSS) dentro de objetos JavaScript.
+Estos componentes son reutilizables y se combinan para crear componentes mayores hasta configurar una web completa.
+Esta es la forma de tener HTML con toda la funcionalidad de JavaScript y el estilo gráfico de CSS centralizado y listo para ser abstraído y usado en cualquier otro proyecto.
+### ¿Por qué React?
+React aporta una serie de claras ventajas frente a la forma clásica de realizar una web, sus facilidades para el desarrollo unido al rendimiento, la flexibilidad y organización del código la convierten en una de las mejores opciones.
+Una de las principales razones para que esto sea posible es el uso del DOM virtual,  React es capaz de generar el DOM de forma dinámica, hace los cambios en una copia en memoria y después la compara con la versión actual del DOM, de esta forma evita renderizar toda la página cada vez que haya cambios, simplemente se aplica dicho cambio al componente que haya sido actualizado, simple y rápido. Esto propicia una mejor experiencia de usuario, además de un rendimiento y una fluidez impresionante.
+En todo proyecto web es importante tener en cuenta el posicionamiento, y precisamente este es uno de los principales problemas de este tipo de frameworks, esto es debido al desacoplamiento entre la parte del cliente y del servidor, el contenido HTML se obtiene mediante peticiones a la API y posteriormente se genera, esto provoca que cuando el robot de Google rastrea la web el contenido aun no exista. Con React no tendremos este problema ya que permite isomorfismo, esto significa que es capaz de renderizar este HTML tanto en el cliente como en el servidor, de forma que cuando llegue el robot de Google podremos entregarle el contenido ya renderizado y esto nos permitirá posicionar igual de bien que el típico wordpress de toda la vida.
+React Native merece otro post para el solo, pero por el momento cabe comentar que es otra herramienta que compilando el mismo código Javascript facilita la generación de aplicaciones nativas para Android, iOS, etc
+### ¿Qué aceptación tiene en el mercado?
+La última encuesta de StackOverflow nos revela que React es el framework más querido y más deseado en este ultimo año, además de ser ya el segundo más usado solo por detrás de jQuery. Esto está fuertemente ligado a que Javascript vuelve a ser el lenguaje mas popular por séptimo año consecutivo, cosa que marca una tendencia claramente ascendente.
+No es casualidad que empresas como Netflix, Airbnb, Dropbox, Paypal, Tesla, Whatsapp, Uber, etc. hayan apostado por esta tecnología, la inversión que ha hecho Facebook junto al gran número de desarrolladores que han contribuido a esta librería de código abierto hacen que sea una apuesta segura de futuro.
+### React y Drupal
+Drupal 8 es un potente CMS que ofrece una gran customización de backend y aporta mucha flexibilidad en la gestión de contenidos. En Drauta somos especialistas en diseño web y usamos React en el desarrollo de aplicaciones para mejorar la velocidad de carga de las páginas y el frontend. 
+![](https://frankcarvajal.com/wp-content/uploads/2020/02/que-es-react-js-y-como-cambio-el-desarrollo-front-end.jpg)

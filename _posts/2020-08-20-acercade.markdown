@@ -2,7 +2,7 @@
 layout: post
 title:  "Acerca de mí"
 description: ¿Quien soy yo?
-date:   2020-08-20 10:03:36 -0530
+date:   2020-08-20 09:03:36 -0530
 categories: Quiensoy
 ---
 Hola, mi nombre es Jaime Francisco Anchundia Magallanes, soy de nacionalidad ecuatoriana, tengo 19 años, nacido en la ciudad de Guayaquil el 1 de Julio del 2001.
